@@ -81,4 +81,4 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 
 # Size Compression
-LZMA_RAMDISK_TARGETS := [boot,recovery]
+LZMA_RAMDISK_TARGETS := recovery
